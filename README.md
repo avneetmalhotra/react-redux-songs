@@ -1,3 +1,6 @@
+# Songs App
+It is a react app which renders song details. It is a react app tp practice react-redux;
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
